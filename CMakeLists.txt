@@ -48,6 +48,7 @@ find_package(catkin REQUIRED COMPONENTS roscpp rospy std_msgs message_generation
    CarSensors.msg
    CarControl.msg
    RCchannel.msg
+   Vicon.msg
  )
 
 ## Generate services in the 'srv' folder
